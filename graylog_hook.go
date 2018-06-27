@@ -1,4 +1,4 @@
-package graylog // import "github.com/raphyot/logrus-graylog-hook"
+package graylog // import "github.com/sbko/logrus-graylog-hook"
 
 import (
 	"bytes"
